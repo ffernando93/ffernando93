@@ -18,3 +18,5 @@
    Express
    Sequilize
    Postgres
+
+#mi mail: fernandofrias9375@gmail.com
