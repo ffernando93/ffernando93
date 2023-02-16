@@ -2,7 +2,7 @@
  
  #¿Quien soy?
  Soy un desarrollador Full stack. 
- Hace un tiempo descubri lo que la programacion y me atrapo. Desde entonces decidi aprender sobre esto y sigo en el proceso descubriendo nuevas tecnologias
+ Hace un tiempo descubri lo que es la programacion y me atrapo. Desde entonces decidi aprender sobre esto y sigo en el proceso descubriendo nuevas tecnologias
  
  #¡¿Que hago?
   Actualmente me didico a realizar proyectos y aprender nuevas tecnologias que me permitan crecer en el mundo de la programacion
